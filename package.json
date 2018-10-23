@@ -1,0 +1,19 @@
+{
+  "name": "13.8",
+  "version": "1.0.0",
+  "description": "http server training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GsGregorion/13.8-serwerHTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GsGregorion/13.8-serwerHTTP/issues"
+  },
+  "homepage": "https://github.com/GsGregorion/13.8-serwerHTTP#readme"
+}
